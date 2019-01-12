@@ -9,7 +9,7 @@ name: Minqiang Chen (@ptpt52)
 description: The only way out is through.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/ptpt52/ptpt52.github.io/master/images/ptpt52-logo.png
+avatar: ./images/ptpt52-logo.jpg
 
 #
 # Flags below are optional
