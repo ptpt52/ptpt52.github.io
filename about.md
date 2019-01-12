@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a linuxer, a programmer, a google fan, a blogger, a worker and surely, a man. I love code and games. My maxim is "The only way out is through". It is hard to identify a human being by some abstract nouns. So if you want to know more about me, you can visit my blog for more information.
+I am a linuxer, a programmer, a google fan, a blogger, a worker and surely, a man. I love code and games. It is hard to identify a human being by some abstract nouns. So if you want to know more about me, you can visit my blog for more information.
 
 ### More Information
 
