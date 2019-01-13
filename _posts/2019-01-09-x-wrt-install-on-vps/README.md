@@ -1,4 +1,7 @@
-# X-Wrt安装部署到VPS上
+---
+layout: post
+title: X-Wrt安装部署到VPS上
+---
 
 ### 1. 介绍:
 
