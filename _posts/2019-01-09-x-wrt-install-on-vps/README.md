@@ -4,7 +4,6 @@ title: X-Wrt安装部署到VPS上
 ---
 
 ### 1. 介绍:
-
 把OpenWrt系统部署到云服务器（VPS），因为OpenWrt是网络系统，对转发做了不少优化，而且有良好的配置界面，很多服务比如OpenVPN等可以一键部署。注意本教程只适用于x-wrt固件，其它OpenWrt固件不适用。
 
 本教程对于绝大多数VPS适用，比如vultr digitalocean Amazon的AWS Linode 阿里云 腾讯云 等等。但是不同的云，实际情况不太相同，要随机应变，根据实际情况做正确的处理。
